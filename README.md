@@ -15,7 +15,7 @@ Features
 
 Preview
 ===============
-Live Preview: https://nated.xyz/captcha/
+https://nated.xyz/captcha/
 
 License
 ==========
