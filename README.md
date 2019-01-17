@@ -4,7 +4,7 @@ ReCaptcha Home Page
 This is a ReCaptcha Home Page that requires a user to verify they are real before redirecting to another link.
 This is built to be implemented in a period of high DDOS/DOS to only let the real user through and protect your site!
 I enjoy making software so much! Please, if you see any issues make them known! If you especially love
-my software you can donate at: https://nated.xyz/donate/
+my software you can donate at: https://github.nated.xyz/donate/
 
 Features
 ===============
@@ -15,7 +15,7 @@ Features
 
 Preview
 ===============
-https://nated.xyz/captcha/
+https://github.nated.xyz/demo/recaptcha-home-page/
 
 License
 ==========
