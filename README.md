@@ -17,7 +17,7 @@ Features
 
 Preview
 ===============
-https://github.nated.xyz/demo/recaptcha-home-page/
+https://files.nateduhamell.com/test/recaptcha-home-page-master/index.html
 
 License
 ==========
