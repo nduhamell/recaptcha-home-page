@@ -17,8 +17,7 @@ Features
 
 Preview
 ===============
-https://files.nateduhamell.com/test/recaptcha-home-page-master/index.html
-
+https://files.nateduhamell.com/demo/recaptcha-home-page/
 License
 ==========
 This software is under an MIT License. Which allows full use to edit, distribute, or sell this code.
